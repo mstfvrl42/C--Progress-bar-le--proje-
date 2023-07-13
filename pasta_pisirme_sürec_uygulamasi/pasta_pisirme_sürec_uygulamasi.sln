@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pasta_pisirme_sürec_uygulamasi", "pasta_pisirme_sürec_uygulamasi\pasta_pisirme_sürec_uygulamasi.csproj", "{D126501F-8F61-483D-8CB0-0FAB9751C468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D126501F-8F61-483D-8CB0-0FAB9751C468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D126501F-8F61-483D-8CB0-0FAB9751C468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D126501F-8F61-483D-8CB0-0FAB9751C468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D126501F-8F61-483D-8CB0-0FAB9751C468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702A3986-A42F-40D5-A322-BCE4CA85364F}
+	EndGlobalSection
+EndGlobal
